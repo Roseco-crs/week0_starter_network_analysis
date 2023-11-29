@@ -207,11 +207,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
 
-path_channel = os.path.abspath('../data/all-week8')
-print(path_channel)
-combineds = []
-for json_file in glob.glob(f"{path_channel}/*.json"):
-    print(f'{json_file}')
-    with open(json_file, 'r', encoding="utf8") as slack_data:
-        combineds.append(slack_data)
-print(combineds)
+
