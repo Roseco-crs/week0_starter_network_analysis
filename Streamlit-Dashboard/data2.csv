@@ -1,0 +1,53 @@
+,reaction_name,reaction_count,reaction_users_count,message,user_id,channel
+0,raised_hands,10,"U03UL5LSTG9,U03V785NLSU,U03UUR571A5,U03V61VGQG0,U03UVHCV6KB,U03UAKATQ22,U03U1HAG9TR,U03U1FNPEUX,U03UD68RQH3,U03U1J51VFZ",Good morning everyone :blush: welcome to week 8 of 12.  Wishing you all a productive week ahead ,U03TEPYRM2P,all-week8
+1,clap,1,U03UUMR26Q1,Good morning everyone :blush: welcome to week 8 of 12.  Wishing you all a productive week ahead ,U03TEPYRM2P,all-week8
+2,raised_hands::skin-tone-3,1,U03U9EJR362,Good morning everyone :blush: welcome to week 8 of 12.  Wishing you all a productive week ahead ,U03TEPYRM2P,all-week8
+3,flushed,6,"U03U1FNPEUX,U03UJKJGRAQ,U03U1HAG9TR,U03UFV7HFNF,U03UJN29Y4C,U03UH397319","hi, i just want to confirm that the submission dates on this week's challenge document are correct?
+• interim submission - *tuesday* 11th oct at 8pm utc (vs wednesday)
+• final submission - *thursday* 13th oct at 8pm utc (vs saturday)",U03UD5B7C3X,all-week8
+4,eyes,2,"U03UG1Z21JP,U03UJKJGRAQ","hi, i just want to confirm that the submission dates on this week's challenge document are correct?
+• interim submission - *tuesday* 11th oct at 8pm utc (vs wednesday)
+• final submission - *thursday* 13th oct at 8pm utc (vs saturday)",U03UD5B7C3X,all-week8
+5,smile,4,"U03UUR571A5,U03U9EJR362,U03UD68RQH3,U03V6HMRPGQ","<@U03UUN8M4RX> In answering my question you said ""if you transported yourself to the past..""
+if I did transport myself to the past, I would told everyone how I invented time-travel and all the markets would have crashed. :smile:",U03UJKJGRAQ,all-week8
+6,joy,1,U03UD68RQH3,that's true <@U03UD68RQH3> I will keep  that in mind when I time-travel next time :laughing:,U03UJKJGRAQ,all-week8
+7,+1,2,"U03UJKJGRAQ,U03U1HAG9TR",,U03UVHCV6KB,all-week8
+8,white_check_mark,1,U03UD68RQH3,If so the difference lies in what your asked as credintials. the first one requires you to provide your ssh public key. And the latter uses your (github) username and PW,U03U1FNPEUX,all-week8
+9,white_check_mark,1,U03V8LHPDME,```pip install matplotlib==3.2.2```,U03UUR571A5,all-week8
+10,white_check_mark,1,U03U1FNPEUX,<@U03U1FNPEUX> Thank you,U03UJN29Y4C,all-week8
+11,white_check_mark,1,U03V6HMRPGQ,I think it is associated with the success of the trading!,U03V5Q9N516,all-week8
+12,white_check_mark,3,"U03UD68RQH3,U03UVHCV6KB,U03V6HMRPGQ",it is something that has monetary value and which can be traded on the market.,U03UG4Q7V42,all-week8
+13,white_check_mark,2,"U03V6HMRPGQ,U03UG4Q7V42","don't confuse it with it's literal meaning, <@U03UG4Q7V42> defined it well... it could be gold, Real states, stocks etc..",U03UD68RQH3,all-week8
+14,white_check_mark,1,U03UD68RQH3,so it is a financial term referring to a commodity ?,U03V6HMRPGQ,all-week8
+15,white_check_mark,2,"U03V6HMRPGQ,U03UG4Q7V42","You can find more about it here.
+<https://www.investopedia.com/terms/s/security.asp>",U03UVHCV6KB,all-week8
+16,raised_hands,1,U03V6HMRPGQ,<@U03V6HMRPGQ> yeah,U03UD68RQH3,all-week8
+17,white_check_mark,1,U03UVHCV6KB,Thank you all for the answers,U03V6HMRPGQ,all-week8
+18,+1,3,"U03UG1Z21JP,U03U1HAG9TR,U03U1FNPEUX","Hey <!channel> your RDS postgres databases are ready and you can access them from your EC2 instances
+
+You can connect using
+`psql --host <http://melachallengedatabase.crlafpfc5g5y.us-east-1.rds.amazonaws.com|melachallengedatabase.crlafpfc5g5y.us-east-1.rds.amazonaws.com> --port 5432 --username groupNameuser --password --dbname groupNamedb`
+
+substitute groupName with all lowercase versions of your group name
+
+example connection:
+`psql --host <http://melachallengedatabase.crlafpfc5g5y.us-east-1.rds.amazonaws.com|melachallengedatabase.crlafpfc5g5y.us-east-1.rds.amazonaws.com> --port 5432 --username changuser --password --dbname changdb`
+
+Password for all groups is _groupNamepass_ example - _changpass_
+
+Exceptions to this are group 4. group 4 will use yvonne (first name) as the group name instead of Choquet-Bruhat
+
+Use this thread if you're facing problems connecting",U03V8LHPDME,all-week8
+19,+1,5,"U03UG1Z21JP,U03UD5B7C3X,U03UD68RQH3,U03UHB8CXDY,U03V785NLSU",,U03UUN8M4RX,all-week8
+20,+1::skin-tone-3,1,U03U9EJR362,,U03UUN8M4RX,all-week8
+21,+1,6,"U03UG1Z21JP,U03UD5B7C3X,U03UD68RQH3,U03UHB8CXDY,U03V785NLSU,U03UG0SFHGT",,U03UUN8M4RX,all-week8
+22,+1::skin-tone-3,1,U03U9EJR362,,U03UUN8M4RX,all-week8
+23,white_check_mark,2,"U03UUN8M4RX,U03UH397319",,U03UVHCV6KB,all-week8
+24,raised_hands,2,"U03UJKJGRAQ,U03UG0YHAUT",,U03UUN8M4RX,all-week8
+25,smile,1,U03UVHCV6KB,didn’t see this when I posted the same thing below :wink:,U03UUN8M4RX,all-week8
+26,white_check_mark,1,U03UVHCV6KB,:pray: <@U03UVHCV6KB>,U03UG0YHAUT,all-week8
+27,white_check_mark,4,"U03UVHCV6KB,U03UG0YHAUT,U03UHB8CXDY,U03U1HAG9TR",1pm UTC tomorrow please ,U03TEPYRM2P,all-week8
+28,raised_hands,3,"U03UD68RQH3,U03UHB8CXDY,U03UG1Z21JP","hi <@U03TEPYRM2P>, i know today's tutorial session just ended but could we have it uploaded really soon?",U03UD5B7C3X,all-week8
+29,white_check_mark,1,U03UVHCV6KB,<https://github.com/confluentinc/cp-docker-images>,U03UKL27B0R,all-week8
+30,white_check_mark,1,U03UVHCV6KB,This is the official docker image of conlfuent. You can find the distributed &amp; standalone mode for running the entire kafka setup,U03UKL27B0R,all-week8
+31,raised_hands,1,U03UVHCV6KB,"Always there <@U03UVHCV6KB> :pray:,thank you",U03V6HMRPGQ,all-week8
